@@ -186,7 +186,7 @@
 
 	if(window.SCM && window.SCMMusicPlayer) return;
 
-  if (!isMobile) {
+  if (true) {
     init();
   }
 
